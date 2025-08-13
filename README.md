@@ -57,3 +57,5 @@ Contains the `Menu` and `MenuItem` classes, which define the available drinks an
 ### `money_machine.py`
 Handles the coin processing and payment system. It calculates the total amount of coins entered and checks if the payment is sufficient for the chosen drink.
 
+## License
+This project is created for educational purpose.
